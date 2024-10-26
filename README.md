@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Ticket'D
+- 🌱 I’m currently learning Blockcahin, Pentesting and smart contracts
+- 👯 I’m looking to collaborate on some crazy ideas of mine
+- 💬 Ask me about anything
+- 📫 How to reach me: 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love meeting new people and learning new things
+
 <!--
 **jatinxnewar/jatinxnewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
