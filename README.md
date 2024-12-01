@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jatin Newar</h1>
 
 - 🔭 I’m currently working on Ticket'D
 - 🌱 I’m currently learning Solana, Pentesting and smart contracts
