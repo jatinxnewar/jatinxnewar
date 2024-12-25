@@ -62,7 +62,7 @@
 
 <!---![](https://github-readme-stats.vercel.app/api?username=ParveenRawat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> --->
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jatinxnewar&theme=dark&hide_border=false)<br/>
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinxnewar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinxnewar&show_icons=true&locale=en&theme=dark" alt="manas95826" /></p><br><br>
 
 [![An image of @jatinxnewar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatinxnewar)](https://holopin.io/@jatinxnewar)
 
